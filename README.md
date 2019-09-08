@@ -39,8 +39,9 @@ My own road map
 | Device        | Staus   | 
 |---------|----------|
 |  iPad Mini 4 | Planned |
-|  iPad Air    | Planned |
-|  iPad Air 2  | Planned |
+|  iPad Mini 5 | Planned |
+|  iPad Air 2    | Planned |
+|  iPad Air 3  | Planned |
 |  iPad Pro 12.9-inch (1st Gen)| Planned |
 |  iPad Pro 9.7-inch  (1st Gen)| Planned |
 |  iPad 2017          (5th Gen)| Planned |
