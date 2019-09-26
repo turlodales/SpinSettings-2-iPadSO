@@ -44,12 +44,13 @@ My own road map
 |  iPad Air 3  | Planned |
 |  iPad Pro 12.9-inch (1st Gen)| Planned |
 |  iPad Pro 9.7-inch  (1st Gen)| Planned |
-|  iPad 2017          (5th Gen)| Planned |
+|  iPad 5 2017          (5th Gen)| Planned |
 |  iPad Pro 12.9-inch (2nd Gen)| Planned |
 |  iPad Pro 10.5-inch (2nd Gen)| Planned |
-|  iPad 2018          (6th Gen)| Planned |
+|  iPad 6 2018          (6th Gen)| Planned |
 |  iPad Pro 11-inch   (3rd Gen)| Planned |
 |  iPad Pro 12.9-inch (3rd Gen)| Planned |
+|  iPad 7 2019| Planned |
 
 
 Notes: 
@@ -81,13 +82,13 @@ Notes:
 | iPad Pro (10.5 inch) 2nd gen| Planned |
 | iPad 2018 | Planned |
 | iPad Pro 11-inch (3rd Gen| Planned |
-
+| iPad 7 2019| Planned |
 
 # Supported Devices iPadOS 13.0 to iOS 13.1 
-|iPadOS|iPad Mini 4|iPad Mini 5|iPad Air 2|iPad Air 3|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iPadOS 13.0|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
-|iPadOS 13.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+|iPadOS|iPad Mini 4|iPad Mini 5|iPad Air 2|iPad Air 3|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|iPad 7 2019|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iPadOS 13.0|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+|iPadOS 13.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
 
 
 -----------------------------------------------------------------------------------------------------------------------------
