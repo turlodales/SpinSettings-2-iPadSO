@@ -89,6 +89,14 @@ Notes:
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 |iPadOS 13.0|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
 |iPadOS 13.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+|iPadOS 13.1.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+|iPadOS 13.1.2|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+|iPadOS 13.1.3|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+|iPadOS 13.2|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+|iPadOS 13.2.2|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+|iPadOS 13.2.3|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+|iPadOS 13.3|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------
