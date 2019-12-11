@@ -20,7 +20,7 @@ My own plan is to make it work from see below
 - [x] ipadOS 13  
 
 
-my plain is to make a working verson of SpinSettings for ios 13.0 to 13.1
+my plain is to make a working verson of SpinSettings for ios 13.0 to 13.?.?
 
 why am i putting is on github:
 
